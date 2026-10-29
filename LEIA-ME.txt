@@ -1,0 +1,17 @@
+ENTRE DOIS PAÍSES — PWA 2026
+
+1. Crie um repositório PÚBLICO no GitHub (ex.: entre-dois-paises).
+2. Envie TODOS os arquivos desta pasta, preservando index.html, sw.js, manifest.webmanifest e a pasta icons.
+3. Settings > Pages > Deploy from a branch > main > / (root) > Save.
+4. Abra https://SEU-USUARIO.github.io/entre-dois-paises/ no navegador do celular.
+5. iPhone: Safari > Compartilhar > Adicionar à Tela de Início. Android: Chrome > menu > Instalar app.
+
+Os seis roteiros completos estão embutidos no index.html e ficam disponíveis offline depois da primeira abertura e cache do service worker. Google Maps, sites e imagens remotas exigem internet.
+
+Todos os gastos, listas e favoritos ficam no navegador de CADA telefone. Use Exportar/Importar backup JSON para transferir o controle de despesas de um aparelho para outro; não há sincronização automática.
+
+Orçamento: 100 euros x 7 dias = 700 euros por casal. O saldo do dia = 100 euros + saldo acumulado anterior - gastos do dia. Compras rateadas são divididas por três casais.
+
+Para instalar como PWA é obrigatório servir por HTTPS ou localhost. Abrir index.html diretamente no computador (file://) permite usar o guia, mas não instalar como PWA/offline via service worker.
+
+Jamais publique dados privados, números de documentos, bilhetes, senhas ou códigos de reserva em um repositório público.

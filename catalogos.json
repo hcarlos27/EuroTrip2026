@@ -1,0 +1,411 @@
+{
+  "food": [
+    [
+      "Casa da Índia",
+      "Lisboa",
+      "Portuguesa / grelhados",
+      "€15–20",
+      "Rua do Loreto 49 Lisboa",
+      "02",
+      "Tasca simples; confirmar cozinha tarde."
+    ],
+    [
+      "Restaurante Rodas",
+      "Lisboa",
+      "Tasca / peixe",
+      "€15–25",
+      "Largo do Rato 10 Lisboa",
+      "02",
+      "Alternativa próxima do Airbnb; fecha mais cedo."
+    ],
+    [
+      "Estrela do Bairro",
+      "Lisboa",
+      "Portuguesa / tapas",
+      "€18–25",
+      "Bairro Alto Lisboa",
+      "02",
+      "Jantar de chegada alternativo."
+    ],
+    [
+      "A Tasquinha",
+      "Guarda",
+      "Caseira regional",
+      "€12–25",
+      "A Tasquinha Guarda Portugal",
+      "03",
+      "Almoço a decidir na Guarda."
+    ],
+    [
+      "O Ferrinho",
+      "Guarda",
+      "Beira Interior",
+      "€15–30",
+      "O Ferrinho Guarda Portugal",
+      "03",
+      "Cozinha regional, verificar horário."
+    ],
+    [
+      "Casa Labra",
+      "Madrid",
+      "Bacalhau / croquetas",
+      "€8–20",
+      "Calle de Tetuán 12 Madrid",
+      "04",
+      "Parada para tapas rápidas."
+    ],
+    [
+      "Casa Lucas",
+      "Madrid",
+      "Tapas / vinhos",
+      "€18–30",
+      "Cava Baja 30 Madrid",
+      "05",
+      "Taberna; reserva útil para seis."
+    ],
+    [
+      "Taberna La Concha",
+      "Madrid",
+      "Vermute / tapas",
+      "€12–25",
+      "Cava Baja Madrid",
+      "05",
+      "Tostas e petiscos."
+    ],
+    [
+      "El Tigre",
+      "Madrid",
+      "Tapas",
+      "€10–20",
+      "El Tigre Madrid",
+      "04",
+      "Ambiente movimentado; alternativa."
+    ],
+    [
+      "Casa Lucio",
+      "Madrid",
+      "Tradicional",
+      "€30+",
+      "Cava Baja 35 Madrid",
+      "05",
+      "Mais caro; opção clássica."
+    ],
+    [
+      "San Ginés",
+      "Madrid",
+      "Churros / chocolate",
+      "€5–10",
+      "Pasadizo de San Ginés 5 Madrid",
+      "05",
+      "Histórica; evitar filas longas."
+    ],
+    [
+      "Los Artesanos 1902",
+      "Madrid",
+      "Churros / chocolate",
+      "€5–10",
+      "Calle San Martín 2 Madrid",
+      "05",
+      "Boa alternativa central."
+    ],
+    [
+      "Fórmula Nieto's",
+      "Madrid",
+      "Churros / porras",
+      "€5–10",
+      "Calle Embajadores 74 Madrid",
+      "05",
+      "Cafeteria tradicional de bairro."
+    ],
+    [
+      "Pastelaria Colmeia",
+      "Guarda",
+      "Café / pastelaria",
+      "€4–10",
+      "Pastelaria Colmeia Guarda Portugal",
+      "06",
+      "Parada de café fixa na volta de Madrid."
+    ],
+    [
+      "Casa Guedes",
+      "Porto",
+      "Pernil / sandes",
+      "€8–18",
+      "Praça dos Poveiros 130 Porto",
+      "06",
+      "Pernil com queijo da Serra; sem reserva."
+    ],
+    [
+      "Manteigaria dos Clérigos",
+      "Porto",
+      "Pastéis de nata",
+      "€2–7",
+      "Manteigaria Clérigos Porto",
+      "06",
+      "Pastéis quentes e café."
+    ],
+    [
+      "Brasão Aliados",
+      "Porto",
+      "Francesinha",
+      "€15–28",
+      "Brasão Aliados Porto",
+      "06",
+      "Jantar de francesinha; reservar mesa para seis."
+    ],
+    [
+      "Café Santiago",
+      "Porto",
+      "Francesinha",
+      "€15–25",
+      "Café Santiago Porto Portugal",
+      "06",
+      "Alternativa mais tradicional."
+    ],
+    [
+      "Pastelaria Ramos",
+      "Aveiro",
+      "Café / doces",
+      "€4–12",
+      "Avenida Doutor Lourenço Peixinho 86 Aveiro",
+      "07",
+      "Café da manhã do dia 7."
+    ],
+    [
+      "Confeitaria Peixinho",
+      "Aveiro",
+      "Ovos moles",
+      "€4–15",
+      "Rua de Coimbra Aveiro Confeitaria Peixinho",
+      "07",
+      "Doce tradicional para provar ou levar."
+    ],
+    [
+      "Rosa dos Ventos",
+      "Nazaré",
+      "Peixe / marisco",
+      "€18–35",
+      "Rosa dos Ventos Nazaré Portugal",
+      "07",
+      "Peixe fresco; perguntar preço por peso e meios de pagamento."
+    ],
+    [
+      "A Tasquinha",
+      "Nazaré",
+      "Peixe / arroz de marisco",
+      "€18–35",
+      "A Tasquinha Nazaré Portugal",
+      "07",
+      "Restaurante familiar; reservar se possível."
+    ],
+    [
+      "Taberna d'Adélia",
+      "Nazaré",
+      "Peixe / marisco",
+      "€25–45",
+      "Taberna d Adelia Nazaré Portugal",
+      "07",
+      "Alternativa mais elaborada."
+    ],
+    [
+      "A Provinciana",
+      "Lisboa",
+      "Tasca portuguesa",
+      "€12–25",
+      "Travessa do Forno 23 Lisboa",
+      "07",
+      "Jantar sábado; confirmar cozinha e mesa."
+    ],
+    [
+      "Delícia de Arroios",
+      "Lisboa",
+      "Comida caseira",
+      "€12–22",
+      "Delícia de Arroios Lisboa",
+      "07",
+      "Alternativa perto do Airbnb."
+    ],
+    [
+      "Pastéis de Belém",
+      "Lisboa",
+      "Pastel de nata",
+      "€3–10",
+      "Rua de Belém 84 Lisboa",
+      "08",
+      "Pastel original de Belém; café da manhã."
+    ],
+    [
+      "Continente Vasco da Gama",
+      "Lisboa",
+      "Supermercado / piquenique",
+      "€6–12",
+      "Continente Centro Vasco da Gama Lisboa",
+      "08",
+      "Comprar comida portuguesa para piquenique."
+    ],
+    [
+      "Restaurante Bacalhau",
+      "Lisboa",
+      "Bacalhau / portuguesa",
+      "€18–35",
+      "Restaurante Bacalhau Parque das Nações Lisboa",
+      "08",
+      "Alternativa de almoço à mesa."
+    ],
+    [
+      "Marisqueira do Parque",
+      "Lisboa",
+      "Peixe / marisco",
+      "€20–40",
+      "Marisqueira do Parque Lisboa Parque das Nações",
+      "08",
+      "Conferir preços de marisco."
+    ]
+  ],
+  "extras": [
+    [
+      "Miradouro da Graça",
+      "Lisboa",
+      "Miradouro",
+      "Lisboa Graça Miradouro",
+      "02",
+      "Vista bonita, subida adicional."
+    ],
+    [
+      "Feira da Ladra",
+      "Lisboa",
+      "Mercado",
+      "Campo de Santa Clara Lisboa",
+      "08",
+      "Acontece normalmente às terças e sábados; não encaixa no domingo final."
+    ],
+    [
+      "Museu Nacional do Azulejo",
+      "Lisboa",
+      "Museu",
+      "Museu Nacional do Azulejo Lisboa",
+      "08",
+      "Verificar abertura e exposições."
+    ],
+    [
+      "LX Factory",
+      "Lisboa",
+      "Lojas / arte",
+      "LX Factory Lisboa",
+      "08",
+      "Alternativa criativa, hoje bastante turística."
+    ],
+    [
+      "Sé da Guarda",
+      "Guarda",
+      "História",
+      "Sé Catedral Guarda Portugal",
+      "03",
+      "Arquitetura histórica no centro."
+    ],
+    [
+      "Castelo de Belmonte",
+      "Guarda / região",
+      "Vila histórica",
+      "Castelo de Belmonte Portugal",
+      "03",
+      "Desvio apenas se decidirem alterar a viagem."
+    ],
+    [
+      "Templo de Debod",
+      "Madrid",
+      "Pôr do sol",
+      "Templo de Debod Madrid",
+      "05",
+      "Miradouro clássico no entardecer."
+    ],
+    [
+      "Museo del Prado",
+      "Madrid",
+      "Museu",
+      "Museo del Prado Madrid",
+      "05",
+      "Opção para amantes de arte; horários e ingressos."
+    ],
+    [
+      "Museo Reina Sofía",
+      "Madrid",
+      "Museu",
+      "Museo Reina Sofia Madrid",
+      "05",
+      "Arte moderna, Guernica."
+    ],
+    [
+      "Mercado de San Fernando",
+      "Madrid",
+      "Mercado local",
+      "Mercado de San Fernando Madrid",
+      "05",
+      "Mercado de Lavapiés, alternativas de comida."
+    ],
+    [
+      "Campo del Moro",
+      "Madrid",
+      "Jardins",
+      "Jardines Campo del Moro Madrid",
+      "05",
+      "Jardins gratuitos próximos do Palácio."
+    ],
+    [
+      "Palácio de Cristal",
+      "Porto",
+      "Jardins",
+      "Jardins do Palácio de Cristal Porto",
+      "06",
+      "Jardins prioritários já presentes no roteiro."
+    ],
+    [
+      "Foz do Douro",
+      "Porto",
+      "Orla",
+      "Passeio Alegre Foz do Douro Porto",
+      "06",
+      "Alternativa para ver o Atlântico, deslocamento adicional."
+    ],
+    [
+      "Costa Nova",
+      "Aveiro",
+      "Casas coloridas",
+      "Costa Nova Aveiro Portugal",
+      "07",
+      "Desvio opcional de aproximadamente 45–60 min incluindo visita."
+    ],
+    [
+      "Praia do Norte",
+      "Nazaré",
+      "Paisagem",
+      "Praia do Norte Nazaré Portugal",
+      "07",
+      "Vista do litoral, respeitar áreas de segurança."
+    ],
+    [
+      "Telecabine Lisboa",
+      "Lisboa",
+      "Passeio panorâmico",
+      "Telecabine Lisboa Parque das Nações",
+      "08",
+      "Alternativa ao Oceanário."
+    ],
+    [
+      "Jardim Garcia de Orta",
+      "Lisboa",
+      "Jardim",
+      "Jardim Garcia de Orta Lisboa",
+      "08",
+      "Passeio no Parque das Nações."
+    ],
+    [
+      "Parque Tejo",
+      "Lisboa",
+      "Parque",
+      "Parque Urbano do Tejo Lisboa",
+      "08",
+      "Piquenique mais afastado do centro comercial."
+    ]
+  ]
+}
