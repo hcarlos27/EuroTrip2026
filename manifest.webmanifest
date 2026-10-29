@@ -1,6 +1,6 @@
 {
-  "name": "Entre Dois Países · Portugal & Espanha 2026",
-  "short_name": "Entre Países",
+  "name": "Eurotrip 2026",
+  "short_name": "Eurotrip 2026",
   "description": "Guia interativo de viagem com roteiros, gastronomia, favoritos e orçamento dos casais.",
   "start_url": "./index.html",
   "scope": "./",
